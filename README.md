@@ -28,6 +28,10 @@ Este projeto é uma **calculadora simples** desenvolvida com HTML, CSS e JavaScr
 3. Abra o arquivo `index.html` em seu navegador de preferência.
 
 ## Capturas de Tela
+![Sem título](https://github.com/user-attachments/assets/b5f74ef1-5e68-4f61-a519-6a79cbd45a43)
+![lightTheme](https://github.com/user-attachments/assets/e7f28de2-fa2d-4806-bc72-224269e7af66)
+![error](https://github.com/user-attachments/assets/08dc1d66-9083-4dab-b068-bf65004463cb)
+
 
 ## Como Contribuir
 1. Fork este repositório.
