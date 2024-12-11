@@ -49,5 +49,5 @@ Este projeto é uma **calculadora simples** desenvolvida com HTML, CSS e JavaScr
    ```
 5. Abra um Pull Request.
 
-Feito por [Ráfaga Matos](https://github.com/rafagasouza).
+Feito por [Ráfaga Souza](https://github.com/rafagasouza).
 
